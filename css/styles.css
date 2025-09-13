@@ -332,9 +332,11 @@ h3.my-profession {
 }
 
 .home .home-img img {
-    height: 400px;
+    max-width: 100%;
+    height: auto;
     margin: auto;
     border-radius: 5px;
+    display: block;
 }
 
 /* About */
